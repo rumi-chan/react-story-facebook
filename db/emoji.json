@@ -743,5 +743,30 @@
     "url": "https://emojipedia.org/bomb/",
     "image_url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/285/bomb_1f4a3.png",
     "value": "💣"
+  },
+  {
+    "url": "https://emojipedia.org/rainbow-flag",
+    "image_url": "https://em-content.zobj.net/source/apple/354/rainbow-flag_1f3f3-fe0f-200d-1f308.png",
+    "value": "🏳️‍🌈"
+  },
+  {
+    "url": "https://emojipedia.org/people-hugging",
+    "image_url": "https://em-content.zobj.net/source/apple/354/people-hugging_1fac2.png",
+    "value": "🫂"
+  },
+  {
+    "url": "https://emojipedia.org/sunflower/",
+    "image_url": "https://em-content.zobj.net/source/apple/354/sunflower_1f33b.png",
+    "value": "🌻"
+  },
+  {
+    "url": "https://emojipedia.org/exclamation-question-mark/",
+    "image_url": "https://em-content.zobj.net/source/microsoft/74/exclamation-question-mark_2049.png",
+    "value": "⁉️"
+  },
+  {
+    "url": "https://emojipedia.org/deer",
+    "image_url": "https://em-content.zobj.net/source/microsoft/74/deer_1f98c.png",
+    "value": "🦌"
   }
 ]
